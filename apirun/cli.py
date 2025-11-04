@@ -5,7 +5,7 @@ from core.CasesPlugin import CasesPlugin
 # 框架运行的入口
 
 import pytest
-
+#hello
 
 # TODO : 1. 最基础的应用，自己找符合规则的测试用例
 # pytest.main(["-vs"])
